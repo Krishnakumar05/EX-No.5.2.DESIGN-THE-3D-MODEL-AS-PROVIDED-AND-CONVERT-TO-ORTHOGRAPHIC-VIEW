@@ -36,6 +36,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
 
 ## OUTPUT
+![edm5 2](https://user-images.githubusercontent.com/119393130/216594151-1d8fad81-90a3-4495-a327-dcdb458b159d.png)
 
 
 ## RESULT:
